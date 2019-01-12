@@ -1,15 +1,15 @@
 # Modul 5
 
-Halaman Login
+halamanlogin
 [alt text](https://github.com/dhani1711/praktikum3/blob/master/ss-modul5/index.png?raw=true)
-Login salah
+loginsalah
 [alt text](https://github.com/dhani1711/praktikum3/blob/master/ss-modul5/salah.png?raw=true)
-Beranda
+beranda
 [alt text](https://github.com/dhani1711/praktikum3/blob/master/ss-modul5/beranda.png?raw=true)
 
 # Modul 6
 
-login berhasil
+loginberhasil
 [alt text](https://github.com/dhani1711/praktikum3/blob/master/php-modul6/ss/berhasil.png?raw=true)
-login gagal
+logingagal
 [alt text](https://github.com/dhani1711/praktikum3/blob/master/php-modul6/ss/salah.png?raw=true)
